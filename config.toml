@@ -1,4 +1,4 @@
-baseurl = "http://rafael-azevedo.github.io/"
+baseurl = "https://rafael-azevedo.github.io/"
 contentdir = "content"
 publishdir = "public"
 languageCode = "en-us"
