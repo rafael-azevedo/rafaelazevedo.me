@@ -21,3 +21,4 @@ footerLine2 = "<a href='https://twitter.com/search?q=%23golang&src=tyah'>#GOLANG
 footerLine3 = "Powered by <a href='http://gohugo.io'>HUGO</a>"
 aboutme = "/pages/aboutme"
 blog = ""
+cv = "/pages/cv"
